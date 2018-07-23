@@ -22,7 +22,7 @@ Les secrets de Miyamoto (Créateur de Mario, Donkey Kong) :
 - exemple d'ergonomie
 - simplicité
 - crée de la joie (petite victoire, objectif clair, surprise)
-- affordance, autoporteur de sens (ex: ![Goomba](https://upload.wikimedia.org/wikipedia/en/2/21/Goomba2.gif) a l'air méchant, si Mario regarde à droite, il va à droite)
+- affordance, autoporteur de sens (ex: <img src="https://upload.wikimedia.org/wikipedia/en/2/21/Goomba2.gif" width="15" alt="Goomba"> a l'air méchant, si <img src="https://i.pinimg.com/originals/78/09/ed/7809ed657b14bdf0f30ca4ab59877bfe.png" width="15" alt="Mario"> regarde à droite, il va à droite)
 
 https://www.youtube.com/watch?v=vaXPyWfangg&t=0s&list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt&index=3
 
