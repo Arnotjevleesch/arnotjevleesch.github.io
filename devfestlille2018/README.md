@@ -1,5 +1,9 @@
 # DEVFEST LILLE 2018
 
+J'ai choisi de placer mon devfest sous le signe des APIs et même d'un peu d'UI.
+
+## **L'UI d'abord**
+
 ## Keynote : Et si Mario était UX Designer
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vaXPyWfangg
 " target="_blank"><img src="http://img.youtube.com/vi/vaXPyWfangg/0.jpg" 
@@ -27,14 +31,6 @@ Les secrets de Miyamoto (Créateur de Mario, Donkey Kong) :
 - crée de la joie (petite victoire, objectif clair, surprise)
 - affordance, autoporteur de sens (ex: <img src="https://upload.wikimedia.org/wikipedia/en/2/21/Goomba2.gif" width="15" alt="Goomba"> a l'air méchant, si <img src="https://i.pinimg.com/originals/78/09/ed/7809ed657b14bdf0f30ca4ab59877bfe.png" width="15" alt="Mario"> regarde à droite, il va à droite)
 
-
-
-## gRPC, communiquons autrement
-Sébastien FRIESS
-SFEIR
-
-https://www.youtube.com/watch?v=6BcfghWezuU&t=0s&list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt&index=4
-
 ## l'UX a sauvé mon DEVOPS (REX)
 Estelle Landry & François Teychene
 Elium / Saagie
@@ -46,6 +42,14 @@ Aurélien Loyer & Nathan Damie
 Zenika
 
 https://www.youtube.com/watch?v=PE0GPOtwYkI&list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt&index=5
+
+## **Les APIs**
+
+## gRPC, communiquons autrement
+Sébastien FRIESS
+SFEIR
+
+https://www.youtube.com/watch?v=6BcfghWezuU&t=0s&list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt&index=4
 
 ## HTTP/2 en pratique
 Alexis Hassler
@@ -68,21 +72,14 @@ David est ex-sogeti, ce qui ne gâte rien !
 https://www.youtube.com/watch?v=Lkr3Hok-rfk&list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt&index=16
 
 
-Vidéo :
+
 ## RetourAuxSources : Les cookies HTTP
 Hubert Sablonnière
 Clever Cloud
 
-## Data Stream avec Apache Beam / Cloud Dataflow
-Geoffrey Garnotel
-SFEIR
+
 
 
 ## Toutes les vidéos :
 https://www.youtube.com/playlist?list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt
 
-
-
-
-https://riduidel.wordpress.com/2018/06/21/devfest-lille-6-lopen-source-a-la-rescousse-de-mes-api/
-http://www.loicmathieu.fr/wordpress/informatique/devfest-lille-2018/
