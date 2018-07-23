@@ -34,11 +34,12 @@ Les secrets de Miyamoto (Créateur de Mario, Donkey Kong) :
 - affordance, autoporteur de sens (ex: <img src="https://upload.wikimedia.org/wikipedia/en/2/21/Goomba2.gif" width="15" alt="Goomba"> a l'air méchant, si <img src="https://i.pinimg.com/originals/78/09/ed/7809ed657b14bdf0f30ca4ab59877bfe.png" width="15" alt="Mario"> regarde à droite, il va à droite)
 
 ## l'UX a sauvé mon DEVOPS (REX)
-*Estelle Landry & François Teychene - Elium / Saagie*
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ovbw8U6NZxI
 " target="_blank"><img src="http://img.youtube.com/vi/ovbw8U6NZxI/0.jpg" 
 alt="l'UX a sauvé mon DEVOPS" width="240" height="180" border="2" align="right"/></a>
+
+*Estelle Landry & François Teychene - Elium / Saagie*
 
 Comment améliorer la communication entre DEV et DEVOPS (ex-OPS) en s'inspirant des problèmatiques, d'ateliers UX ?
 - Faire comprendre que le DEVOPS est l'intégration des OPS, pas une suppression
