@@ -24,7 +24,9 @@ Les secrets de Miyamoto (Créateur de Mario, Donkey Kong) :
 - crée de la joie (petite victoire, objectif clair, surprise)
 - affordance, autoporteur de sens (ex: <img src="https://upload.wikimedia.org/wikipedia/en/2/21/Goomba2.gif" width="15" alt="Goomba"> a l'air méchant, si <img src="https://i.pinimg.com/originals/78/09/ed/7809ed657b14bdf0f30ca4ab59877bfe.png" width="15" alt="Mario"> regarde à droite, il va à droite)
 
-https://www.youtube.com/watch?v=vaXPyWfangg&t=0s&list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt&index=3
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vaXPyWfangg
+" target="_blank"><img src="http://img.youtube.com/vi/vaXPyWfangg/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="2" /></a>
 
 ## gRPC, communiquons autrement
 Sébastien FRIESS
