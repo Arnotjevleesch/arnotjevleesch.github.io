@@ -62,6 +62,10 @@ alt="Tout le monde sait comment utiliser Angular..." width="240" height="180" bo
 
 *Aurélien Loyer & Nathan Damie - Zenika*
 
+- Savoir où est implémentée une fonctionnalité : typescript vs framework vs javascript (Ecma 5, 6, ...)
+- Vanilla JS est un fwk minimum pour du js "pur"
+- Tous les frameworks implémentent des fonctionnalités de base qui sont réalisables en vanilla (live code de binding, templating, routing)
+- Une fois ces communs implémentés (fwk ou pas), les problématiques émergent et à partir de ce moment le choix du framework intervient
 
 ## **Les APIs**
 
