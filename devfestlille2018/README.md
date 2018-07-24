@@ -1,8 +1,8 @@
 # DEVFEST LILLE 2018
 
-J'ai choisi de placer mon devfest sous le signe des APIs et même d'un peu d'UI.
+Toutes les vidéos : https://www.youtube.com/playlist?list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt
 
-## **Communiquons par devant**
+## **Bas du front**
 
 ## Keynote : Et si Mario était UX Designer
 
@@ -67,7 +67,7 @@ alt="Tout le monde sait comment utiliser Angular..." width="240" height="180" bo
 - Tous les frameworks implémentent des fonctionnalités de base qui sont réalisables en vanilla (live code de binding, templating, routing)
 - Une fois ces communs implémentés (fwk ou pas), les problématiques émergent et à partir de ce moment le choix du framework intervient
 
-## **Communiquons par derrière**
+## **Back to back**
 
 ## gRPC, communiquons autrement
 
@@ -129,9 +129,20 @@ alt="Modern API Authentication" width="240" height="180" border="2" align="right
 
 *Léo Unbekandt - Scalingo*
 
+### API Tokens
 
+- Simplicité d'appel
+- Surface d'attaque élevée car token dans l'url, donc loggable
+- Pas de délégation d'authentification
+- Pas de standard, beaucoup de façon de le passer (header custom, basic auth user/mdp, paramètre) 
 
-## L'open-source à la rescousse de mes APIS: comment les sécuriser grâce à Gravitee.io et Keycloak
+### OAuth2
+
+- Délégation d'authentification (auth en tant que pour social login)
+- Possibilité d'utiliser JWT cryptographiquement signé avec clés publiques/privées
+- Gestion de l'expiration 
+
+## L'open-source à la rescousse de mes APIS: comment les sécuriser grâce à Gravitee.io et Keycloak (Live code)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Lkr3Hok-rfk
 " target="_blank"><img src="http://img.youtube.com/vi/Lkr3Hok-rfk/0.jpg" 
@@ -139,16 +150,11 @@ alt="Gravitee.io et Keycloak" width="240" height="180" border="2" align="right"/
 
 *David Brassely & Guillaume Gillon - GraviteeSource / Decathlon*
 
-David est ex-sogeti, ce qui ne gâte rien !
+NB : David est un ex-sogeti, ce qui ne gâte rien !
 
-
-
-## RetourAuxSources : Les cookies HTTP
-*Hubert Sablonnière - Clever Cloud*
-
-
-
-
-## Toutes les vidéos :
-https://www.youtube.com/playlist?list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt
+Gravitee, API gateway entre les devices et les services pour manager la sécurisation les APIs d'une application simple
+- ajout d'entêtes CORS
+- authentification, autorisation par l'UI Keycloak (SSO, délégation d'auth, mire de login, gestion mot de passe. Compatible JS, Springboot)
+- pilotage des subscribers, quotas, métriques
+- sécurisation par Keycloak
 
