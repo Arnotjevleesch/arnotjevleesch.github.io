@@ -1,6 +1,6 @@
 # DEVFEST LILLE 2018
 
-Toutes les vidéos : https://www.youtube.com/playlist?list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt
+[Toutes les vidéos](https://www.youtube.com/playlist?list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt)
 
 ## **Bas du front**
 
