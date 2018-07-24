@@ -55,33 +55,53 @@ Communication -> Visibilité -> Engagement
 A noter une différence entre les DEV qui expriment souvent des solutions, moins un besoin comme un user d'UX.
 
 ## Tout le monde sait comment utiliser Angular / React / Vue JS…mais savez-vous comment utiliser JavaScript ?
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=PE0GPOtwYkI
+" target="_blank"><img src="http://img.youtube.com/vi/PE0GPOtwYkI/0.jpg" 
+alt="Tout le monde sait comment utiliser Angular..." width="240" height="180" border="2" align="right"/></a>
+
 *Aurélien Loyer & Nathan Damie - Zenika*
 
-https://www.youtube.com/watch?v=PE0GPOtwYkI&list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt&index=5
 
 ## **Les APIs**
 
 ## gRPC, communiquons autrement
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6BcfghWezuU
+" target="_blank"><img src="http://img.youtube.com/vi/6BcfghWezuU/0.jpg" 
+alt="gRPC" width="240" height="180" border="2" align="right"/></a>
+
 *Sébastien FRIESS - SFEIR*
 
-https://www.youtube.com/watch?v=6BcfghWezuU&t=0s&list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt&index=4
 
 ## HTTP/2 en pratique
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=OQiFCOYvwL0
+" target="_blank"><img src="http://img.youtube.com/vi/OQiFCOYvwL0/0.jpg" 
+alt="HTTP/2" width="240" height="180" border="2" align="right"/></a>
+
 *Alexis Hassler - Sewatech*
 
-https://www.youtube.com/watch?v=OQiFCOYvwL0&list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt&index=15
 
 ## Modern API Authentication 101
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=259CYnDVHL0
+" target="_blank"><img src="http://img.youtube.com/vi/259CYnDVHL0/0.jpg" 
+alt="Modern API Authentication" width="240" height="180" border="2" align="right"/></a>
+
 *Léo Unbekandt - Scalingo*
 
-https://www.youtube.com/watch?v=259CYnDVHL0&list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt&index=7
+
 
 ## L'open-source à la rescousse de mes APIS: comment les sécuriser grâce à Gravitee.io et Keycloak
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Lkr3Hok-rfk
+" target="_blank"><img src="http://img.youtube.com/vi/Lkr3Hok-rfk/0.jpg" 
+alt="Gravitee.io et Keycloak" width="240" height="180" border="2" align="right"/></a>
+
 *David Brassely & Guillaume Gillon - GraviteeSource / Decathlon*
 
 David est ex-sogeti, ce qui ne gâte rien !
-
-https://www.youtube.com/watch?v=Lkr3Hok-rfk&list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt&index=16
 
 
 
