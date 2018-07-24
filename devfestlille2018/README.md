@@ -47,7 +47,7 @@ Comment améliorer la communication entre DEV et DEVOPS (ex-OPS) en s'inspirant 
 - Aligner la road map DEV et OPS (board)
 - 5 pourquois : fait émerger les problèmes primaires
 - Intéresser les uns aux besoins des autres (pour l'UX, le designer s'intéresse au user)
-- S'accorder sur des engagements communs, pas managériales (6 chapeaux, personas UX)
+- S'accorder sur des engagements communs, pas managériaux (6 chapeaux, personas UX)
 
 En conclusion, procéder par étapes, avec les ateliers :
 Communication -> Visibilité -> Engagement
@@ -99,7 +99,6 @@ gRPC
 - numérotation des champs : suppression, ajout transparent et sans versionning des services
 - possibilité de générer/exposer du REST depuis gRPC
 
-
 ## HTTP/2 en pratique
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=OQiFCOYvwL0
@@ -116,7 +115,7 @@ Comparaison sur la rapidité d'affichage d'une image entre HTTP/1.1 vs 2
 - HTTPS (h2) ou non (h2c & clear text, non supporté par les navigateurs)
 - Multiplexed
 
-Point sur la compatibilité des clients/serveurs HTTP et des langages : certains h2 uniquement, d'autres h2c uniquement, certains nécessitent des versions de Java ou d'OpenSSL spécifique.
+Point sur la compatibilité des clients/serveurs HTTP et des langages : certains h2 uniquement, d'autres h2c uniquement, certains nécessitent des versions de Java ou d'OpenSSL spécifiques.
 
 - moins besoin de minification, de limitation des requêtes API
 - consomme plus de thread serveur (pas ce problème avec event loop de vert.x vs tomcat)
@@ -152,9 +151,16 @@ alt="Gravitee.io et Keycloak" width="240" height="180" border="2" align="right"/
 
 NB : David est un ex-sogeti, ce qui ne gâte rien !
 
-Gravitee, API gateway entre les devices et les services pour manager la sécurisation les APIs d'une application simple
+Gravitee, API gateway entre les devices et les services pour manager la sécurisation les APIs.
+- sécurité
 - ajout d'entêtes CORS
-- authentification, autorisation par l'UI Keycloak (SSO, délégation d'auth, mire de login, gestion mot de passe. Compatible JS, Springboot)
-- pilotage des subscribers, quotas, métriques
-- sécurisation par Keycloak
+- pilotage des subscribers
+- quotas 
+- métriques
+
+Associé à Keycloak :
+- délégation d'auth
+- mire de login
+- gestion mot de passe
+- compatible JS, Springboot
 
