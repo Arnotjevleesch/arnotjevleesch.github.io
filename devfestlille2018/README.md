@@ -2,7 +2,7 @@
 
 J'ai choisi de placer mon devfest sous le signe des APIs et même d'un peu d'UI.
 
-## **L'UI d'abord**
+## **Communiquons par devant**
 
 ## Keynote : Et si Mario était UX Designer
 
@@ -67,7 +67,7 @@ alt="Tout le monde sait comment utiliser Angular..." width="240" height="180" bo
 - Tous les frameworks implémentent des fonctionnalités de base qui sont réalisables en vanilla (live code de binding, templating, routing)
 - Une fois ces communs implémentés (fwk ou pas), les problématiques émergent et à partir de ce moment le choix du framework intervient
 
-## **Les APIs**
+## **Communiquons par derrière**
 
 ## gRPC, communiquons autrement
 
@@ -76,6 +76,28 @@ alt="Tout le monde sait comment utiliser Angular..." width="240" height="180" bo
 alt="gRPC" width="240" height="180" border="2" align="right"/></a>
 
 *Sébastien FRIESS - SFEIR*
+
+Un peu d'Histoire :
+- 1990 HTTP/1
+- 1992 CORBA
+- 1997 Java/RMI, seulement Java
+- 1999 EJB, seulement Java
+- 1999 SOAP & WSDL, XML everywhere 
+- 2000 HTTP/JSON REST, interopérabilité, a mis du temps à émerger
+- 2008 Protocol Buffers
+- 2009 Thrift, RPC
+- 2015 gRPC
+
+gRPC
+- multilangages (10 langages + mobile)
+- basé sur HTTP/2
+- plugins (retry, ...)
+- secure par défaut (TLS)
+- open source
+- typage fort
+- performant grâce au protocol buffers
+- numérotation des champs : suppression, ajout transparent et sans versionning des services
+- possibilité de générer/exposer du REST depuis gRPC
 
 
 ## HTTP/2 en pratique
@@ -86,6 +108,18 @@ alt="HTTP/2" width="240" height="180" border="2" align="right"/></a>
 
 *Alexis Hassler - Sewatech*
 
+Comparaison sur la rapidité d'affichage d'une image entre HTTP/1.1 vs 2
+
+- body + headers compression
+- 1.1 = text, 2 = binary
+- Server Push (envoi des requêtes au navigateur pour mise en cache et gagner latence)
+- HTTPS (h2) ou non (h2c & clear text, non supporté par les navigateurs)
+- Multiplexed
+
+Point sur la compatibilité des clients/serveurs HTTP et des langages : certains h2 uniquement, d'autres h2c uniquement, certains nécessitent des versions de Java ou d'OpenSSL spécifique.
+
+- moins besoin de minification, de limitation des requêtes API
+- consomme plus de thread serveur (pas ce problème avec event loop de vert.x vs tomcat)
 
 ## Modern API Authentication 101
 
