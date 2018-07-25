@@ -128,15 +128,13 @@ alt="Modern API Authentication" width="240" height="180" border="2" align="right
 
 *Léo Unbekandt - Scalingo*
 
-### API Tokens
-
+API Tokens
 - Simplicité d'appel
 - Surface d'attaque élevée car token dans l'url, donc loggable
 - Pas de délégation d'authentification
 - Pas de standard, beaucoup de façon de le passer (header custom, basic auth user/mdp, paramètre) 
 
-### OAuth2
-
+OAuth2
 - Délégation d'authentification (auth en tant que pour social login)
 - Possibilité d'utiliser JWT cryptographiquement signé avec clés publiques/privées
 - Gestion de l'expiration 
