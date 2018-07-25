@@ -18,10 +18,10 @@ Un constat : le sujet est moins valorisé en France qu'aux US
 Test psycho pour faire émerger notre profil, sur kahoot.it
 
 A partir de mauvais exemples d'UX dans le jeu vidéo :
-- adapter le vocabulaire au user (ex: un cookie sur un navigateur est un gateau sur un bateau pour ma grand-mère)
+- adapter le vocabulaire au user (ex: un cookie sur un navigateur est un gâteau sur un bateau pour ma grand-mère)
 - respecter les automatismes/conventions
 - ne pas compter sur la mémoire du user (ex: comparateur vs 2 pages de caractéristiques)
-- adapter les intéractions selon le device (ex: curseur sur console vs PC)
+- adapter les interactions selon le device (ex: curseur sur console vs PC)
 - laisser le choix de la quantité d'informations (densité informationnelle)
 
 Utiliser des outils pour les tests utilisateurs.
@@ -41,11 +41,11 @@ alt="l'UX a sauvé mon DEVOPS" width="240" height="180" border="2" align="right"
 
 *Estelle Landry & François Teychene - Elium / Saagie*
 
-Comment améliorer la communication entre DEV et DEVOPS (ex-OPS) en s'inspirant des problèmatiques, d'ateliers UX ?
+Comment améliorer la communication entre DEV et DEVOPS (ex-OPS) en s'inspirant des problématiques, d'ateliers UX ?
 - Faire comprendre que le DEVOPS est l'intégration des OPS, pas une suppression
 - Reprioriser (le backlog OPS était trop gros)
 - Aligner la road map DEV et OPS (board)
-- 5 pourquois : fait émerger les problèmes primaires
+- 5 pourquoi : fait émerger les problèmes primaires
 - Intéresser les uns aux besoins des autres (pour l'UX, le designer s'intéresse au user)
 - S'accorder sur des engagements communs, pas managériaux (6 chapeaux, personas UX)
 
